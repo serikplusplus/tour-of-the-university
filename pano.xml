@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.11" apprev="18043" start="node5">
+  <panorama id="node5">
+    <input height="1152" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" width="1152" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0">
+      <level height="1152" predecode="0" width="1152" preload="0"/>
+      <level height="576" predecode="0" width="576" preload="0"/>
+      <level height="288" predecode="1" width="288" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="65" fovmode="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="120" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata source="" copyright="" nodeid="node5" altitude="60.87" comment="" description="" datetime="30.10.2021 14:20" latitude="48.941242" tags="pano" title="Лабораторія для дистанційного навчання в рамках проєкту USAID &quot;Економічна підтримка Східної України&quot;" author="" longitude="38.508944" heading="65" info="" customnodeid=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label wordwrap="1" height="20" textalpha="1" borderalpha="1" border="1" background="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media>
+      <image rotz="1.000" height="480" pan="-172.190" roty="8.000" stretch="1.000" handcursor="0" width="688" clickmode="1" rotx="-1.000" fov="12.188" tilt="-7.730" id="Element01">
+        <source url="media/IMG_00751.jpg"/>
+      </image>
+    </media>
+    <transition softedge="0" zoomfov="20" zoomafterinfov="90" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomafteroutfov="20" zoomspeed="2" blendcolor="0x000000" enabled="1" zoomin="0" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" hideabout="0" rubberband="0" invertwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" invertcontrol="1" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input height="1152" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" width="1152" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0">
+      <level height="1152" predecode="0" width="1152" preload="0"/>
+      <level height="576" predecode="0" width="576" preload="0"/>
+      <level height="288" predecode="1" width="288" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="64" fovmode="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="120" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata source="" copyright="" nodeid="node1" altitude="70.51" comment="" description="" datetime="30.10.2021 14:20" latitude="48.943089" tags="lab|pano" title="Комп'ютерна лабораторія &quot;ChemLab&quot; в рамках проєкту USAID &quot;Економічна підтримка Східної України&quot;" author="" longitude="38.508372" heading="64" info="" customnodeid=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label wordwrap="1" height="20" textalpha="1" borderalpha="1" border="1" background="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media>
+      <image rotz="-1.000" height="605" pan="-122.740" roty="2.000" stretch="1.000" handcursor="0" width="810" clickmode="1" rotx="0.000" fov="16.000" tilt="1.870" id="Element01">
+        <source url="media/IMG_0083.png"/>
+      </image>
+    </media>
+    <transition softedge="0" zoomfov="20" zoomafterinfov="90" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomafteroutfov="20" zoomspeed="2" blendcolor="0x000000" enabled="1" zoomin="0" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" hideabout="0" rubberband="0" invertwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" invertcontrol="1" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="1152" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" width="1152" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0">
+      <level height="1152" predecode="0" width="1152" preload="0"/>
+      <level height="576" predecode="0" width="576" preload="0"/>
+      <level height="288" predecode="1" width="288" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="145" fovmode="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="120" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata source="" copyright="" nodeid="node2" altitude="71.30" comment="" description="лдоівдоівфдаоіфвоа" datetime="30.10.2021 14:20" latitude="48.941317" tags="gg|pano" title=" Комп'ютерна лабораторія 304" author="" longitude="38.508403" heading="145" info="" customnodeid=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label wordwrap="1" height="20" textalpha="1" borderalpha="1" border="1" background="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" zoomafterinfov="90" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomafteroutfov="20" zoomspeed="2" blendcolor="0x000000" enabled="1" zoomin="0" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" hideabout="0" rubberband="0" invertwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" invertcontrol="1" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="1152" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" width="1152" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0">
+      <level height="1152" predecode="0" width="1152" preload="0"/>
+      <level height="576" predecode="0" width="576" preload="0"/>
+      <level height="288" predecode="1" width="288" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="332" fovmode="0">
+      <start projection="4" pan="3.1" fov="70" tilt="-17.14"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="120" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata source="" copyright="" nodeid="node3" altitude="71.51" comment="" description="" datetime="30.10.2021 14:20" latitude="48.941144" tags="pano" title="Комп'ютерна лабораторія 203" author="" longitude="38.509644" heading="332" info="" customnodeid=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label wordwrap="1" height="20" textalpha="1" borderalpha="1" border="1" background="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" zoomafterinfov="90" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomafteroutfov="20" zoomspeed="2" blendcolor="0x000000" enabled="1" zoomin="0" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" hideabout="0" rubberband="0" invertwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" invertcontrol="1" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="1152" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" width="1152" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0">
+      <level height="1152" predecode="0" width="1152" preload="0"/>
+      <level height="576" predecode="0" width="576" preload="0"/>
+      <level height="288" predecode="1" width="288" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="351" fovmode="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="120" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata source="" copyright="" nodeid="node4" altitude="70.34" comment="" description="" datetime="01.11.2021 16:46" latitude="48.941444" tags="pano" title="Центр ІТ-рішень Луганської області" author="" longitude="38.508808" heading="351" info="" customnodeid=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label wordwrap="1" height="20" textalpha="1" borderalpha="1" border="1" background="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media>
+      <image rotz="-1.000" height="1280" pan="-261.360" roty="-1.000" stretch="1.000" handcursor="0" width="960" clickmode="1" rotx="12.000" fov="19.500" tilt="7.950" id="Element01">
+        <source url="media/IMG_0077.png"/>
+      </image>
+    </media>
+    <transition softedge="0" zoomfov="20" zoomafterinfov="90" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomafteroutfov="20" zoomspeed="2" blendcolor="0x000000" enabled="1" zoomin="0" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" hideabout="0" rubberband="0" invertwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" invertcontrol="1" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input height="1152" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" width="1152" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0">
+      <level height="1152" predecode="0" width="1152" preload="0"/>
+      <level height="576" predecode="0" width="576" preload="0"/>
+      <level height="288" predecode="1" width="288" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="65" fovmode="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fov="120" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata source="" copyright="" nodeid="node6" altitude="64.42" comment="" description="" datetime="02.11.2021 18:17" latitude="48.941083" tags="pano" title="Комп'ютерна лабораторія в рамках проєкту TEMPUS &quot;Modernization of Postgraduate Studies on Security and Resilience for Human and Industry Related Domains (SEREIN)&quot;" author="" longitude="38.508897" heading="65" info="" customnodeid=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label wordwrap="1" height="20" textalpha="1" borderalpha="1" border="1" background="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media>
+      <image rotz="0.000" height="1280" pan="-177.080" roty="0.000" stretch="1.000" handcursor="0" width="960" clickmode="1" rotx="8.000" fov="18.624" tilt="7.340" id="Element01">
+        <source url="media/IMG_0079.png"/>
+      </image>
+    </media>
+    <transition softedge="0" zoomfov="20" zoomafterinfov="90" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomafteroutfov="20" zoomspeed="2" blendcolor="0x000000" enabled="1" zoomin="0" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" hideabout="0" rubberband="0" invertwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" invertcontrol="1" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedwheel="0" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata source="" copyright="" nodeid="master" comment="" description="" datetime="" latitude="" tags="" title="" author="" longitude="" heading="0" info="" customnodeid=""/>
+  </masternode>
+</tour>
